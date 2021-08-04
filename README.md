@@ -29,7 +29,9 @@ _It is recomended to use [PyEnv](https://github.com/pyenv/pyenv) to run locally_
 
 _Search docker hub for the correct base image for you !_
 
-_used this [dockerfile reference](https://docs.docker.com/engine/reference/commandline/build/) for more information on dockerfile !_
+_use this [dockerfile reference](https://docs.docker.com/engine/reference/commandline/build/) for more information on dockerfile !_
+
+_use this [docker-compose videos](https://www.youtube.com/watch?v=j2wf_WHjjpc) for training how to build via docker-compose_
 
 Good Luck !
 😊
