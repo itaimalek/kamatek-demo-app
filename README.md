@@ -24,7 +24,7 @@ _It is recomended to use [PyEnv](https://github.com/pyenv/pyenv) to run locally_
 * Test it on your browser
 * Push your image to your Docker Hub repository
 
-## Buiild and Run using Docker Compose
+## Build and Run using Docker Compose
 * create a docker-compose file for building and running your image
 
 _Search docker hub for the correct base image for you !_
