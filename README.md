@@ -33,5 +33,7 @@ _use this [dockerfile reference](https://docs.docker.com/engine/reference/comman
 
 _use this [docker-compose video](https://www.youtube.com/watch?v=j2wf_WHjjpc) for training how to build via docker-compose_
 
+_use this [docker-compose-build](https://docs.docker.com/compose/compose-file/compose-file-v3/#build) for reference on how to build images inside your compose file_
+
 Good Luck !
 😊
